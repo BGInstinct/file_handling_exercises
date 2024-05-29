@@ -1,0 +1,15 @@
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\bin\Debug\net7.0\e2_school_administration.exe
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\bin\Debug\net7.0\e2_school_administration.deps.json
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\bin\Debug\net7.0\e2_school_administration.runtimeconfig.json
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\bin\Debug\net7.0\e2_school_administration.dll
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\bin\Debug\net7.0\e2_school_administration.pdb
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\obj\Debug\net7.0\e2_school_administration.csproj.AssemblyReference.cache
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\obj\Debug\net7.0\e2_school_administration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\obj\Debug\net7.0\e2_school_administration.AssemblyInfoInputs.cache
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\obj\Debug\net7.0\e2_school_administration.AssemblyInfo.cs
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\obj\Debug\net7.0\e2_school_administration.csproj.CoreCompileInputs.cache
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\obj\Debug\net7.0\e2_school_administration.dll
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\obj\Debug\net7.0\refint\e2_school_administration.dll
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\obj\Debug\net7.0\e2_school_administration.pdb
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\obj\Debug\net7.0\e2_school_administration.genruntimeconfig.cache
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e2_school_administration\obj\Debug\net7.0\ref\e2_school_administration.dll

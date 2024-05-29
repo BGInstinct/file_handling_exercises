@@ -1,0 +1,15 @@
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\bin\Debug\net7.0\e3_users_management.exe
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\bin\Debug\net7.0\e3_users_management.deps.json
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\bin\Debug\net7.0\e3_users_management.runtimeconfig.json
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\bin\Debug\net7.0\e3_users_management.dll
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\bin\Debug\net7.0\e3_users_management.pdb
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\obj\Debug\net7.0\e3_users_management.csproj.AssemblyReference.cache
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\obj\Debug\net7.0\e3_users_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\obj\Debug\net7.0\e3_users_management.AssemblyInfoInputs.cache
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\obj\Debug\net7.0\e3_users_management.AssemblyInfo.cs
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\obj\Debug\net7.0\e3_users_management.csproj.CoreCompileInputs.cache
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\obj\Debug\net7.0\e3_users_management.dll
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\obj\Debug\net7.0\refint\e3_users_management.dll
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\obj\Debug\net7.0\e3_users_management.pdb
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\obj\Debug\net7.0\e3_users_management.genruntimeconfig.cache
+C:\Users\ivann\OneDrive\Documents\GitHub\file_handling_exercises\e3_users_management\obj\Debug\net7.0\ref\e3_users_management.dll
